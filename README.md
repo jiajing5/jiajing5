@@ -22,6 +22,10 @@ I have great interest in the information industry, so I am currently learning re
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2?logo=Dart)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B?logo=Flutter)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4?logo=PHP&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-%234285F4?logo=googleappsscript&logoColor=white)
+![C](https://img.shields.io/badge/C-%23A8B9CC?logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?logo=C%2B%2B&logoColor=white)
 
 ### Front-End
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26?logo=HTML5&logoColor=white)
